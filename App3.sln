@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3", "App3\App3.csproj", "{26C6348D-4E03-4D1A-8A2A-EF19044BA06A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShutdownSetup", "ShutdownSetup\ShutdownSetup.vdproj", "{2949391F-F0D3-45DD-80C3-DA8D16EA223E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C6348D-4E03-4D1A-8A2A-EF19044BA06A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{26C6348D-4E03-4D1A-8A2A-EF19044BA06A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{26C6348D-4E03-4D1A-8A2A-EF19044BA06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C6348D-4E03-4D1A-8A2A-EF19044BA06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2949391F-F0D3-45DD-80C3-DA8D16EA223E}.Debug|Any CPU.ActiveCfg = Release
+		{2949391F-F0D3-45DD-80C3-DA8D16EA223E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D754DD39-D82E-4460-8CEC-2CD1410241C8}
+	EndGlobalSection
+EndGlobal
